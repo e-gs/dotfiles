@@ -144,3 +144,5 @@ alias python='python3'
 
 
 
+
+eval $(thefuck --alias)
